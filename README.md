@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharshini</h1>
-<h3 align="center">I am philomath and passionate about coding and software development sector in addition I have interest in designing phase.</h3>
+<h3 align="center">I am a philomath and passionate about coding and software development sector in addition I have interest in designing phase.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharshinirgit&label=Profile%20views&color=0e75b6&style=flat" alt="dharshinirgit" /> </p>
 
@@ -32,7 +32,8 @@
 </p>
 <h3 align="left">Mobile app Development:</h3> 
 <p align="left"> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"></p> 
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+</p> 
 <h3 align="left">Database:</h3> 
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></p>
